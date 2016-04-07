@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="selected_item_appsent">Нет выбранного фрагмента</string>
+    <string name="network_is_appsent">Отсутствует интернет соединение</string>
+</resources>
